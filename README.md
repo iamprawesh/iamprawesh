@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm prawesh</h1>
-<h3 align="center">A Pragmatic Programmerfrom Nepal</h3>
+<h3 align="center">A Pragmatic Programmer from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamprawesh" alt="iamprawesh" /></a> </p>
 
