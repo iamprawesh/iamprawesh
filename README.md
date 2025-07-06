@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamprawesh" alt="iamprawesh" /></a> </p>
 
-- 🔭 I’m currently working on **Everestwalk**
+- 🔭 I’m currently working on **Evolve**
 
 - 🌱 I’m currently learning **Ideas**
 
 - 👯 I’m looking to collaborate on **Problem Solving Projects**
 
-- 💬 Ask me about **Flutter, Python ,Web Scraping**
+- 💬 Ask me about **Flutter,Kotlin Python ,Web Scraping**
 
-- 📫 How to reach me **http://praweshp.com.np/**
+- 📫 How to reach me **http://iamprawesh.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
